@@ -1,0 +1,201 @@
+#logo
+{
+  width: 80%;
+  height: 100px;
+  position: absolute;
+  top:0px;
+}
+#left
+{
+  width: 160px;
+  position: absolute;
+  top:102px;
+  left:10px;
+}
+#login_text
+{
+  width: 25%;
+  top: 30%;
+  left: 25%;
+  position: absolute;
+  text-align: right;
+}
+#login_inpt
+{
+  width: 25%;
+  top: 30%;
+  left: 51%;
+  position: absolute;
+  text-align: left;
+}
+#rus
+{  width: 40%;
+  top: 25%;
+  left: 30%;
+  position: absolute;
+  text-align: center;
+}
+#baner
+{
+  top: 90%;
+  left: 45%;
+  position: absolute;
+  text-align: center;
+}
+#done
+{
+  width: 50%;
+  top: 30%;
+  left: 25%;
+  position: absolute;
+  text-align: center;
+}
+#center
+{
+  padding-left:10%;
+  width: 67%;
+  height: 85%;
+  position: absolute;
+  top:102px;
+  left:170px;
+}
+a:link
+{
+  color: #CCFF99;
+  font-family: Times New Roman;
+  text-decoration: none;
+	}
+a:visited
+{
+  color: #CCFF99;
+  font-family: Times New Roman;
+  text-decoration: none;
+	}
+a:active
+{
+  color: #CCFF99;
+  font-family: Times New Roman;
+  text-decoration: none;
+	}
+a:hover
+{
+  color: #FFFFFF;
+  font-family: Times New Roman;
+  text-decoration: underline;
+    }
+
+input
+{
+    font-size:12px;
+	border: 2px #545454 solid;
+	color: #FFFFFF;
+	font-family: Arial;
+	background: #003F74;
+	}
+input:hover
+{
+	background: #003F55;
+	}
+.text
+{
+    border: 1px #545454 solid;
+	color: #FFFFFF;
+	font-family: Arial;
+	background: #003F74;
+    overflow: hidden;
+    word-wrap: break-word;
+	}
+.text:hover
+{
+    background: #003F55;
+}
+.tr
+{    background: #000000;
+}
+select
+{
+    font-size:12px;
+	border: 2px #545454 solid;
+	color: #FFFFFF;
+	font-family: Arial;
+	background: #003F74;
+	}
+select:hover
+{
+	background: #003F55;
+	}
+.shapka
+{
+	background: #000000;
+	border: 2px #545454 solid;
+}
+.efect1
+{
+    background: #050505;
+}
+.efect2
+{
+	background: #121212;
+}
+hr
+{
+    color: #000064;
+}
+b
+{
+    color: #228B22;
+}
+b:hover
+{
+    color: #A70000;
+}
+.ssylka
+{
+background: url(img/button.gif) 100%;
+color: #FFFFFF;
+font-family: Times New Roman;
+}
+body
+{
+  background: url(../image/bg.jpg) fixed;
+  color: #FFFFFF;
+}
+.pushbutt
+{  background: url(../image/1.jpg);
+  display: block;
+  width: 160px;
+  heigth: 20px;
+  text-align: center;
+}
+.pushbutt:hover
+{  background: url(../image/2.jpg);
+  display: block;
+  width: 160px;
+  heigth: 20px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+.knopka
+{  background: url(../image/1.jpg);
+  display: inline;
+  heigth: 20px;
+  text-align: center;
+  padding: 0em 2em 0em 2em;
+}
+.knopka:hover
+{
+  background: url(../image/2.jpg);
+  display: inline;
+  heigth: 20px;
+  text-align: center;
+  padding: 0em 2em 0em 2em;
+  text-decoration: none;
+}
+#poloska
+{  top: 80%;
+  left: 30%;
+  width: 40%;
+  text-align: center;
+  position: absolute;
+}
